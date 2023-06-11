@@ -1,6 +1,8 @@
 package Merge;
 
 public class LoginTest {
-    //logine test positive scenario  will be done
+    public static void main(String[] args) {
 
+        //logine test positive scenario  will be done
+    }
 }
