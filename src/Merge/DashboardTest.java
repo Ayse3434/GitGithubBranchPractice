@@ -1,9 +1,9 @@
 package Merge;
 
-public class LoginTest {
+public class DashboardTest {
     public static void main(String[] args) {
-
-        //logine test positive scenario  will be done
+        //created verify methods
         //all test case is done
+
     }
 }
